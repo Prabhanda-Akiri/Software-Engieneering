@@ -1,0 +1,46 @@
+Literature Survey on SRS
+
+1. IEEE Format
+-IEEE specifications are a well renowned SRS standard.
+-It has the following different components:
+Introduction
+Overall Description
+External Interface Requirements
+System Features
+Other Nonfunctional Requirements
+Other Requirements
+-This format covers all the basic necessities for general projects. Hence mostly followed.
+-The requirements are represented in the use-case format. So it is easy to understand and gives a clear picture of the scenario.
+
+
+2.TCS Format
+TCS format has the given structure below:
+Scope
+Referenced Documents
+Description Of Software to be Developed
+Development Sequence and Schedule
+Software Safety
+Generic Software Requirements
+Specific TCS Software Requirements
+Deliverables
+Configuration Control
+3.IBM Format
+-Components of IBM Requirement format are given below:
+Introduction
+Overall Description
+Specific Requirements
+Supporting Information
+Concerns/ Queries
+-Pictorial aids used here are Use-case diagrams and Architecture diagrams.
+-Database design is also done in this requirement phase.
+
+4.Infosys Format
+	Infosys Requirement specification has the following structure:
+Overview
+Functional Requirements
+External Interface Requirements
+Operating Environment Requirements
+Performance Requirements
+Standards Requirements
+Special User Requirements
+Constraints
